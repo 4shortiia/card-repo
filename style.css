@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Cinzel", serif;
+}
+
+.card {
+  padding: 25px 25.95px;
+  width: 550.948px;
+  height: 900px;
+  flex-shrink: 0;
+  border-radius: 27.716px;
+  border: 2.883px solid rgba(117, 70, 74, 0.88);
+  background: #f7f5f5;
+}
+.product-container {
+  width: 100%;
+}
+
+.card-img {
+  width: 100%;
+  height: auto;
+  cursor: default;
+}
+
+.product-name {
+  margin-top: 98.56px;
+  margin-bottom: 41px;
+  color: #75464a;
+  font-family: "Cinzel", serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.product-name2 {
+  color: #121111;
+  font-family: "Cinzel", serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.product-price {
+  padding-left: 153px;
+  padding-right: 25.95px;
+  width: 42px;
+  height: 23px;
+  flex-shrink: 0;
+  color: #f00;
+  font-family: "Cinzel", serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.card-text {
+  color: #f00;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: "Cinzel", serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.72px;
+  text-decoration-line: underline;
+}
+.card-text1 {
+  color: #000;
+  font-family: Cinzel;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.72px;
+  text-decoration-line: underline;
+}
+
+.card-text2 {
+  color: #121111;
+  font-family: "Cinzel", serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.72px;
+  text-decoration-line: underline;
+}
+
+.add-to-cart-button {
+  margin-left: 147.63px;
+  margin-right: 147.93px;
+  margin-top: 89.01px;
+  margin-bottom: 34.2px;
+  width: 255.396px;
+  height: 65.788px;
+  flex-shrink: 0;
+  border-radius: 28.829px;
+  background: #3f3232;
+}
+
+.button-text {
+  margin-bottom: 34.2px;
+  width: 199px;
+  height: 26px;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: Cinzel;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
